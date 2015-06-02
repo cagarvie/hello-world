@@ -1,7 +1,7 @@
 /**
  * Interface for whatever @bennevis wants
  **/
-public interface IFactorial {
+public interface IMath {
   
   /**
    * @return factorial of number
