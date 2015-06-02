@@ -9,5 +9,8 @@ jave code original line 5
  **/
 public interface pretend_fileq1 {
   
-  double factorial(int n); 
+  /**
+   * @return factorial of number
+   **/
+  double factorial(int number); 
 }
